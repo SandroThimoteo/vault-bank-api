@@ -1,0 +1,14 @@
+/target
+/.idea
+*.iml
+*.log
+.mvn
+/.mvn/wrapper/maven-wrapper.jar
+spring-boot-devtools.properties
+*.class
+/.settings
+/.classpath
+/.project
+.DS_Store
+.env
+.history
