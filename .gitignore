@@ -12,3 +12,4 @@ spring-boot-devtools.properties
 .DS_Store
 .env
 .history
+.gradle/
